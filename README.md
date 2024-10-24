@@ -15,6 +15,24 @@
   </ol>
 </details>
 
+<!-- Presentación -->
+## Presentación
+En READY, ya tienen la tradición, el compromiso con la calidad, y un producto que habla por sí mismo. Ahora, ¿cómo llevamos todo eso al mundo digital, de manera que cada cliente lo vea desde el primer momento? Aquí es donde entra nuestra propuesta de una plataforma web transformadora.
+El sitio web será la primera puerta de entrada para sus clientes. Necesitamos que cada clic sea tan impecable como los uniformes que ustedes fabrican. Diseñaremos una experiencia de usuario que no solo facilite el acceso a sus productos, sino que convierta cada visita en una oportunidad de negocio. Ya sea un cliente buscando uniformes industriales para banca o para el sector petrolero, todos encontrarán lo que necesitan de manera rápida y sencilla.
+
+<!-- Participantes -->
+## Participantes
+* María José Caiza
+* Matías Gutiérrez
+* Ana Guanoluisa
+
+<img src="https://github.com/anauiux/anauiux.github.io/blob/main/assets/images/about/Anna_KSX_Artes_Horizontales_X-Games_1%20(1).png" alt="Team Grease" />
+
+
+<!-- Wireframes -->
+## Wireframes
+
+
 <!-- Archivos -->
 ## Archivos
 
