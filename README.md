@@ -5,13 +5,13 @@
 <details open>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#usage">Presentación del proyecto</a></li>
-    <li><a href="#roadmap">Participantes</a></li>
-    <li><a href="#contributing">Bocetos Wireframes</a></li>
-    <li><a href="#contributing">Archivos</a></li>
-    <li><a href="#license">Tecnologías</a></li>
-    <li><a href="#contact">Fuentes</a></li>
-    <li><a href="#acknowledgments">Css Editable</a></li>
+    <li><a href="#presentacion">Presentación</a></li>
+    <li><a href="#participantes">Participantes</a></li>
+    <li><a href="#wireframes">Wireframes</a></li>
+    <li><a href="#archivos">Archivos</a></li>
+    <li><a href="#tecnologias">Tecnologías</a></li>
+    <li><a href="#fuentes">Fuentes</a></li>
+    <li><a href="#css">Css Editable</a></li>
   </ol>
 </details>
 
@@ -28,7 +28,7 @@
 * 404-error.html -> Página de error
 
   
-<!-- Tecnologías -->
+<!-- Tecnologias -->
 ## Tecnologías
 
 Para el desarrollo del proyecto usamos lo siguiente: 
@@ -53,11 +53,13 @@ Para el desarrollo del proyecto usamos lo siguiente:
 * Compatibilidad con varios navegadores
 * Última versión de jQuery
 
+<!-- fuentes -->
   ## Fuentes Instaladas
   ```sh
    @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); 
    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
    ```
+  <!-- css -->
   ## Css Principal
   ```sh
    <link rel="stylesheet" href="assets/css/style.css" /> 
