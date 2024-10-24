@@ -7,7 +7,7 @@
   <ol>
     <li><a href="#presentacion">Presentación</a></li>
     <li><a href="#participantes">Participantes</a></li>
-    <li><a href="#wireframes">Wireframes</a></li>
+    <li><a href="#wireframes">Notas y Diagramas</a></li>
     <li><a href="#archivos">Archivos</a></li>
     <li><a href="#tecnologias">Tecnologías</a></li>
     <li><a href="#fuentes">Fuentes</a></li>
@@ -32,6 +32,40 @@ El sitio web será la primera puerta de entrada para sus clientes. Necesitamos q
 <!-- Wireframes -->
 ## Wireframes
 
+<table>
+  <thead>
+    <tr>
+      <th>
+        Funcionalidades
+      </th>
+     <th>
+        Contenidos Web
+      </th>
+     <th>
+        User Person 1
+      </th>
+     <th>
+        User Person 2
+      </th>
+    </tr>
+    </thead>
+<tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/anauiux/anauiux.github.io/blob/main/assets/images/infoTeamimages/funcionalidades.png" alt="Team Grease" />
+      </td>
+      <td>
+        <img src="https://github.com/anauiux/anauiux.github.io/blob/main/assets/images/infoTeamimages/contenidosweb.png" alt="Team Grease" />
+      </td>
+       <td>
+        <img src="https://github.com/anauiux/anauiux.github.io/blob/main/assets/images/infoTeamimages/userperson1.png" alt="Team Grease" />
+      </td>
+       <td>
+        <img src="https://github.com/anauiux/anauiux.github.io/blob/main/assets/images/infoTeamimages/userperson2.png" alt="Team Grease" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- Archivos -->
 ## Archivos
