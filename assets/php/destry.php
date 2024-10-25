@@ -19,7 +19,7 @@ header("Access-Control-Allow-Origin: *");
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "reza@hastechit.com";
+        $recipient = "aritazul@gmail.com";
 
         // Set the email subject.
         $subject = "New contact from $name";
