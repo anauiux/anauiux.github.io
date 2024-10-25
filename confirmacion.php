@@ -2,15 +2,19 @@
 
 $name = $_POST['name'];
 $email = $_POST['email'];
+$subject = $_POST['subject'];
+$message = $_POST['message'];
 
 $formcontent="
     Nombre: $name \n
-    E-mail: $email
+    E-mail: $email \n
+    Subject: $subject \n
+    Message: $message
 ";
 
-$recipient = "REEMPLAZAR ESTO POR EL MAIL AL QUE QUERES QUE LLEGUE";
+$recipient = "aritazul@gmail.com";
 
-$subject = "REEMPLAZAR ESTO POR ASUNTO";
+$subject =  "Consulta $subject "
 
 $header = "From: $email \r\n";
 $header .= "Content-Type: text/plain; charset=UTF-8";
