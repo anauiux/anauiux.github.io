@@ -1,4 +1,3 @@
-# anauiux.github.io
 <a id="readme-top"></a>
 <h1>Proyecto READY</h1>
 <!-- TABLE OF CONTENTS -->
@@ -12,6 +11,7 @@
     <li><a href="#tecnologias">Tecnologías</a></li>
     <li><a href="#fuentes">Fuentes</a></li>
     <li><a href="#css">Css</a></li>
+    <li><a href="#Formulario">Formulario de Contacto</a></li>
   </ol>
 </details>
 
@@ -116,6 +116,35 @@ Para el desarrollo del proyecto usamos lo siguiente:
   ```sh
    <link rel="stylesheet" href="assets/css/style.css" /> 
    ```
-
+<!-- Contact Form -->
+  ## Formulario de Contacto
+Existe un formulario de contacto con php que pueden activarlo descomentando las líneas indicadas. Y el botón de whatsapp debe configurarse aquí.
+<table>
+  <thead>
+    <tr>
+      <th>
+        Activar Formulario PHP
+      </th>
+     <th>
+        Cambio de correo
+      </th> 
+      <th>
+        Whatsapp
+      </th> 
+    </thead>
+<tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/anauiux/anauiux.github.io/blob/main/assets/images/infoTeamimages/contactForm.png" alt="Team Grease" />
+      </td>
+      <td>
+        <img src="https://github.com/anauiux/anauiux.github.io/blob/main/assets/images/infoTeamimages/correo.png" alt="Team Grease" />
+      </td>  
+       <td>
+        <img src="https://github.com/anauiux/anauiux.github.io/blob/main/assets/images/infoTeamimages/whatsapp.png" alt="Team Grease" />
+      </td>  
+    </tr>
+  </tbody>
+</table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
