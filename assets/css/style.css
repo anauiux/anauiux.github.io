@@ -9779,6 +9779,12 @@ fieldset:disabled .btn {
 .bg-cream {
   background-color: #e0cca4 !important;
 }
+.bg-grey {
+  background-color: grey !important;
+}
+.bg-darkblue {
+  background-color: #071b51 !important;
+}
 
 .bg-light {
   background-color: #E8E8E8 !important;
